@@ -24,8 +24,8 @@
     <ProjectGuid>{02A96BAA-1270-4A0A-B22F-73E031A855BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CustomCommandSample</RootNamespace>
-    <AssemblyName>CustomCommandSample</AssemblyName>
+    <RootNamespace>TCADSInterfaceTool</RootNamespace>
+    <AssemblyName>VS_TC_ADS_Interface_Tool</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>true</IncludeAssemblyInVSIXContainer>
